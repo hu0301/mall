@@ -43,7 +43,7 @@ spring:
   rabbitmq:
     host: 119.45.139.62
     port: 5672
-    virtual-host: /mall
+    virtual-host: /
     username: Administrator
     password: JiangKai@Password123
     publisher-confirms: true #如果对异步消息需要回调必须设置为true
